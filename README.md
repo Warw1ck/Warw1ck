@@ -20,6 +20,7 @@
     >&nbsp;&nbsp;
     </p>
 </div>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -41,4 +42,3 @@ me.say_hi()
 
 ```
 
-```
