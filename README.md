@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 4rem; font-weight:bold; font-family: cursive;">
+<h2 align="center">
       Hello! &#x1F44B; I'm Valentin
-</p>
+</h2>
 <div align="center">
     <p align="center">
     <a href="https://www.linkedin.com/in/valentin-obretenov-65530a240/"
