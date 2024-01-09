@@ -1,15 +1,25 @@
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F26924&psig=AOvVaw0rjz_C6Hz3kCYwZwEasFnJ&ust=1704880131388000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCNDX2cyD0IMDFQAAAAAdAAAAABAx" width=400 style="display: block; margin: 0 auto"/>
+<p align="center" style="font-size: 2rem; font-family: cursive;">
+      Hello! I'm Valentin
 </p>
-
-<div align='center'>
-  <p align='center'>
-    <a href="https://www.linkedin.com/in/taehyun-hwang-876631201"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:eeht1717@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-  </p>
+<div align="center">
+    <p align="center">
+    <a href="https://www.linkedin.com/in/valentin-obretenov-65530a240/"
+        ><img
+        height="30"
+        src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" /></a
+    >&nbsp;&nbsp;
+    <a href="https://twitter.com/RealMonster123"
+        ><img
+        height="30"
+        src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" /></a
+    >&nbsp;&nbsp;
+    <a href="mailto:hunterwarwck@gmail.com"
+        ><img
+        height="30"
+        src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1" /></a
+    >&nbsp;&nbsp;
+    </p>
 </div>
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -18,6 +28,8 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Valentin Obretenov"
+        self.years = 21
+        self.height = 180
         self.role = "Software Engineer"
         self.language_spoken = ["Bulgarian", "English"]
 
@@ -26,8 +38,6 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-
-```
 
 ```
 
