@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 2rem; font-family: cursive;">
-      Hello! I'm Valentin
+<p align="center" style="font-size: 4rem; font-weight:bold; font-family: cursive;">
+      Hello! &#x1F44B; I'm Valentin
 </p>
 <div align="center">
     <p align="center">
